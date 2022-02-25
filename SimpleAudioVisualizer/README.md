@@ -1,2 +1,3 @@
 Using JavaScript Web Audio Api to animate any music files on my device
-![2022-02-25](https://user-images.githubusercontent.com/59953234/155720090-7e6ce921-0db6-4b71-9e15-cd4802511495.png)
+![2022-02-25 (3)](https://user-images.githubusercontent.com/59953234/155729809-7540ed7d-86d2-416c-8374-0d4adc1cec0b.png)
+
